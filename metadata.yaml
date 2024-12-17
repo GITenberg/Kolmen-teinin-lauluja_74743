@@ -1,0 +1,45 @@
+_repo: Kolmen-teinin-lauluja_74743
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Asunta, Heikki
+    alias: Asunta, Uuno Taavi Heikki
+    birthdate: 1904
+    deathdate: 1959
+    gutenberg_agent_id: '57625'
+    url: http://www.gutenberg.org/2009/agents/57625
+    wikipedia: https://fi.wikipedia.org/wiki/Heikki_Asunta
+  - agent_name: Merenmaa, Martti
+    alias: Merenmaa, Martti Henrik
+    birthdate: 1896
+    deathdate: 1972
+    gutenberg_agent_id: '57626'
+    url: http://www.gutenberg.org/2009/agents/57626
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Merenmaa
+  - agent_name: Vuorela, Einari
+    alias: Vuorela, Einari Arvid
+    birthdate: 1889
+    deathdate: 1972
+    gutenberg_agent_id: '56948'
+    url: http://www.gutenberg.org/2009/agents/56948
+    wikipedia: https://fi.wikipedia.org/wiki/Einari_Vuorela
+description: ''
+gutenberg_issued: '2024-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74743'
+language: fi
+pgterms:marc905: 20241110060059asunmaa
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Kolmen teinin lauluja
+url: http://www.gutenberg.org/ebooks/74743
